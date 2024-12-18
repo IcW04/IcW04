@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Software Engineering student passionate about web application<br> development and technology 🤖. I seek an opportunity to apply my<br> knowledge and skills in a professional environment that allows me to<br> grow and contribute with innovative solutions.😁<br><br>The hobbies I have:<br>-Exercise💪<br>- VideoGames🎮</p>
+<p align="left">I am a Software Engineering student passionate about web application development and technology 🤖. Seek an opportunity to apply my knowledge and skills in a professional environment that allows me to grow and contribute with innovative solutions.😁<br><br>The hobbies I have:<br>-Exercise💪<br>- VideoGames🎮</p>
 
 ###
 
@@ -58,6 +58,13 @@
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IcW04&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IcW04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
