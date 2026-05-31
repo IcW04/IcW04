@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Software Engineering student passionate about web application development and technology 🤖. Seek an opportunity to apply my knowledge and skills in a professional environment that allows me to grow and contribute with innovative solutions.😁<br><br>The hobbies I have:<br>-Exercise💪<br>- VideoGames🎮</p>
+<p align="left">I am a Software Engineering passionate about web application development and technology 🤖. Seek an opportunity to apply my knowledge and skills in a professional environment that allows me to grow and contribute with innovative solutions.😁<br><br>The hobbies I have:<br>-Exercise💪<br>- VideoGames🎮</p>
 
 ###
 
